@@ -1,8 +1,12 @@
 ELEMENT:
-
+Image
 
 SYNTAX:
 
+<Image
+  source = {{ uri: 'https://www.youtube.com/' }}
+  style = {{ height: 100, width: 100 }}
+/>
 
 HOW TO USE IT:
 
