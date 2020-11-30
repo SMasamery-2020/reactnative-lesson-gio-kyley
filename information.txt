@@ -1,5 +1,10 @@
-Element:
+ELEMENT:
 
-Syntax:
 
-How to use it:
+SYNTAX:
+
+
+HOW TO USE IT:
+
+
+EXAMPLE:
