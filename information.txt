@@ -9,6 +9,7 @@ SYNTAX:
 />
 
 HOW TO USE IT:
+You use an image to enhance the website and grab people's attention. An image always has to be contained within a view container.
 
 
 EXAMPLE:
